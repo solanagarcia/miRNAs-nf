@@ -44,7 +44,9 @@ Pipeline overview:
 
 
 */
-
+/*
+ * This is a message
+ */
 def helpMessage() {
     log.info """
 
